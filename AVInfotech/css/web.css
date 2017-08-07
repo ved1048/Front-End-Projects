@@ -1,0 +1,114 @@
+.navbar-default {
+    background-color: #081019;
+    border-radius: 0px;
+    margin: 0px 0px;
+    padding: 0px; 0px;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #ffffff;
+}
+
+.navbar-default .navbar-brand {
+    color: #fff;
+    font-family: 'Lobster', cursive;
+}
+
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
+    color: #ff6633;
+    background-color: transparent;
+}
+.navbar-default .navbar-brand:hover {
+    color: #ff6633;
+    background-color: transparent;
+    
+}
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+    color: #ff6633;
+    background-color: #000000;
+}
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus, .navbar-default .navbar-nav>.open>a:hover {
+    color: #ff6633;
+    background-color: #081019;
+}
+.carousel-caption{
+    color: black;
+}
+.btn-default {
+    color: #000000;
+    background-color:transparent;
+    border-color:#000000;
+}
+
+.btn-default:hover {
+    color: #000000;
+    background-color:transparent;
+    border-color:beige;
+}
+
+.carousel-caption>p{
+    padding-bottom: 330px;
+    
+}
+
+.carousel-control {
+    position: absolute;
+    top: 0;
+    bottom: 20px;
+    left: 0;
+    width: 15%;
+    font-size: 20px;
+    color: #fff;
+    text-align: center;
+    text-shadow: 0 1px 2px rgba(0,0,0,.6);
+    filter: alpha(opacity=50);
+    opacity: .5;
+}
+
+.col-md-12{
+    color: black;
+    text-align: center;
+     font-family: 'Lobster', cursive;
+    
+}
+.col-md-12>p{
+    padding: 0px 30px;
+    font-size: 16px;
+    padding-bottom: 15px;
+}
+.col-md-4{
+    text-align: center;
+    padding-top: 30px;
+}
+.col-md-4>p{
+    padding-left: 80px;
+    padding-right: 80px;
+    
+}
+.col-md-6{
+    margin-top: 0px;
+    text-align: center;
+    padding-top: 20px;
+    font-family: 'Lobster', cursive;
+    background-color: #4E5446;
+    color: aliceblue;
+}
+.team{
+    background-color: #4E5446;
+    color: white;
+    padding-bottom: 20px;
+}
+.footer{
+    padding-top: 30px;
+    padding-bottom: 20px;
+    color: white;
+    background-color: black;
+    text-align: center;
+    
+}
+#carousel-example-generic{
+    
+    margin-top: 40px;
+}
+
+
